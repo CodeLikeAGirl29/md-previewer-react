@@ -1,7 +1,10 @@
-
 # Markdown Preview
 
 The **Markdown Previewer** is a simple and interactive web application that allows users to write and preview GitHub-flavored markdown in real-time. As you type markdown into the editor, the app automatically updates and displays the corresponding HTML rendering, making it easy to create and format content on the fly.
+
+> live link can be found [here](https://md-previewer-react.vercel.app/)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/md-previewer-react/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/md-previewer-react)
 
 ### Key Features:
 - **Real-time Preview:** The preview pane updates instantly as you type markdown, showing the live HTML output.
